@@ -37,3 +37,13 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 1.25rem;
   color: #727272;
 }
+
+/* TEST omgeving accentkleuren */
+body.test-env {
+    background-color: #fff7e6; /* heel licht oranje */
+}
+header.test-banner {
+    background-color: #ff9800; /* oranje */
+    color: white;
+    padding: 10px;
+}
